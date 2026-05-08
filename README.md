@@ -3,6 +3,16 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-009688)
 
+## Screenshots
+
+![Screenshot 1](screenshots/Screenshot%202026-05-08%20113253.png)
+
+![Screenshot 2](screenshots/Screenshot%202026-05-08%20113310.png)
+
+![Screenshot 3](screenshots/Screenshot%202026-05-08%20113322.png)
+
+---
+
 A Python project for downloading market data, calculating technical indicators, running a simple SMA crossover backtest, tracking portfolio positions, evaluating alerts, and producing charts and CSV reports.
 
 The project is designed as an end-to-end learning system: raw market data flows into SQLite, indicators are computed with `ta`, strategy performance is evaluated, and results are exposed through a terminal pipeline, FastAPI endpoints, and a Streamlit dashboard.
